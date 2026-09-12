@@ -4,10 +4,10 @@ A production-quality real-time analytics dashboard built as an R&D performance e
 
 ## Screenshots
 
-![Full Dashboard](/dashboard_10k_points_1789244825076.png)
+![Full Dashboard](./public/dashboard_10k_points_1789244825076.png)
 *Full Dashboard operating under 10,000 points stress mode*
 
-![Aggregated Table](/aggregated_table_1789244999258.png)
+![Aggregated Table](./public/aggregated_table_1789244999258.png)
 *Virtualized Data Table in 1-minute aggregation mode*
 
 ## Setup
